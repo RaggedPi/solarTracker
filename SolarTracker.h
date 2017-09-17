@@ -11,10 +11,10 @@
 #define H_SERVO 9       // digital pin
 #define V_SERVO 10      // digital pin
 
-#define LDR1 A0         // analog pin
-#define LDR2 A1         // analog pin
-#define LDR3 A2         // analog pin
-#define LDR4 A3         // analog pin
+#define LDR1 A1         // analog pin
+#define LDR2 A2         // analog pin
+#define LDR3 A3         // analog pin
+#define LDR4 A4         // analog pin
 
 #define MIN_DEG 0       // minimum angle
 #define MAX_DEG 180     // maximum angle
